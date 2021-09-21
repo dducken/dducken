@@ -17,8 +17,8 @@
 ### ⚡ Loving 
 * #### **`💪 Workout`** 
 * * #### **`✌ Watch anime `**
-* * * #### **`🎮 Play videogames `**
-* * * * #### **`💥 Blow my mind learning`**
+* * #### **`🎮 Play videogames `**
+* #### **`💥 Blow my mind learning`**
 
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
