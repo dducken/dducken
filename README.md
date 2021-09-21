@@ -15,7 +15,7 @@
 **https://www.linkedin.com/in/alex-cabanillas/**
 
 ### ⚡ Hobbies 
-* #### **`Loving calisthenics`** 
+* #### **`I love workout 💪 and watching anime ✌`** 
 
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
