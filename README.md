@@ -8,7 +8,7 @@
 * #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
 * #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`**
 
-### 🌱 I’m currently learning 
+### 🌟 I’m currently learning 
 * #### **`Angular`**  
 
 ### 📫 How to reach me:
