@@ -14,8 +14,11 @@
 ### 📫 How to reach me:
 **https://www.linkedin.com/in/alex-cabanillas/**
 
-### ⚡ Hobbies 
-* #### **`I love workout 💪 and watching anime ✌`** 
+### ⚡ Loving 
+* #### **`💪 Workout`** 
+* * #### **`✌ Watch anime `**
+* * * #### **`🎮 Play videogames `**
+* * * * #### **`💥 Blow my mind learning`**
 
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
