@@ -1,4 +1,21 @@
-### Hi there 👋
+## 👋 hello-world 
+## 👨‍🦱 I'm Alex Cabanillas - Software Developer
+
+### 💻 My personal portfolio 
+[**https://deskiced.github.io**](https://deskiced.github.io)
+
+### 👽 Stack
+* #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
+* #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`**
+
+### 🌱 I’m currently learning 
+* #### **`Angular`**  
+
+### 📫 How to reach me:
+**https://www.linkedin.com/in/alex-cabanillas/**
+
+### ⚡ Hobbies 
+* #### **`Loving calisthenics`** 
 
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
