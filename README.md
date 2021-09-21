@@ -1,5 +1,5 @@
 ## 👋 hello-world 
-## 👨‍🦱 My name is Alex but you could call me Pato - i'm Software Developer 🚀
+## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀
 
 ### 💻 My personal portfolio 
 * #### [**https://deskiced.github.io**](https://deskiced.github.io)
