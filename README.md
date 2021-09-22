@@ -5,7 +5,7 @@
 * #### [**https://deskiced.github.io**](https://deskiced.github.io)
 
 ### 👽 Stack
-* #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
+* #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
 * #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`**
 
 ### 🌟 I’m currently learning 
