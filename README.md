@@ -1,6 +1,7 @@
 ![the dev are u looking edit 3](https://user-images.githubusercontent.com/64493715/134780834-66c24b35-3cd6-4589-aa97-b68a4c628299.png)
 
-<hr></hr>
+
+
 ## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀
 
