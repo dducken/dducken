@@ -1,4 +1,5 @@
-![the dev are u looking edit 4](https://user-images.githubusercontent.com/64493715/134780996-a6f531c9-3691-4420-867d-f4fe99b669f1.png)
+![the dev](https://user-images.githubusercontent.com/64493715/134781178-4d2ffb74-91db-4759-a9d0-94c35993ee5b.png)
+
 
 
 
