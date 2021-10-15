@@ -10,8 +10,6 @@
 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀
 
-### 💻 My personal portfolio 
-
 
 ### 👽 Stack
 * #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
@@ -20,8 +18,6 @@
 ### 🌟 I’m currently learning 
 * #### **`Angular`**  
 
-### 📫 How to reach me:
-**https://www.linkedin.com/in/alex-cabanillas/**
 
 ### ⚡ Loving 
 * #### **`💪 Workout`** 
