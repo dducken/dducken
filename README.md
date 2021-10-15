@@ -8,8 +8,7 @@
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀
 
 ### 💻 My personal portfolio 
-* #### [**<img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">**](https://deskiced.github.io)
-* <a href="https://deskiced.github.iom" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+ <a href="https://deskiced.github.io" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 
 ### 👽 Stack
 * #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
