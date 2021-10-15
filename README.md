@@ -1,6 +1,6 @@
-//![the dev](https://user-images.githubusercontent.com/64493715/134781178-4d2ffb74-91db-4759-a9d0-94c35993ee5b.png)
+/*![the dev](https://user-images.githubusercontent.com/64493715/134781178-4d2ffb74-91db-4759-a9d0-94c35993ee5b.png) */
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=radical)
 
 
 
