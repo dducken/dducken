@@ -1,10 +1,9 @@
+## 👋 hello-world 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=radical)
 
 
-
-## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀
 
 ### 💻 My personal portfolio 
