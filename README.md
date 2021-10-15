@@ -1,7 +1,8 @@
-## 👋 hello-world 
  <a href="https://deskiced.github.io" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/alex-cabanillas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:cabanillasalex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/alex-cabanillas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href = "mailto:cabanillasalex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ 
+## 👋 hello-world 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=synthwave )
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=synthwave )
