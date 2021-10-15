@@ -1,6 +1,6 @@
 ## 👋 hello-world 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=graywhite)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=graywhite)
 
 
