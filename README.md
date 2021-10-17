@@ -5,6 +5,9 @@
 ## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=synthwave )
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=synthwave )
+
 ### 👽 Stack
 * #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
 * #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`**
@@ -18,8 +21,7 @@
 * * #### **`🎮 Play videogames `**
 * #### **`💥 Blow my mind learning`**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=synthwave )
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=synthwave )
+
 
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
