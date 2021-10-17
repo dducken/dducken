@@ -5,7 +5,7 @@
 ## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=maroongold    )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=cobalt2    )
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=cobalt2  )
 
 ### 👽 Stack
