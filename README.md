@@ -22,8 +22,7 @@
 * * #### **`🎮 Play videogames `**
 * #### **`💥 Blow my mind learning`**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox)
+
 
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
