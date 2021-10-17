@@ -5,8 +5,9 @@
 ## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox          )
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox      )
+<img style="height: 40px" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox)
 
 ### 👽 Stack
 * #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
