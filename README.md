@@ -4,9 +4,6 @@
  
 ## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
-<img align="right" src="https://user-images.githubusercontent.com/64493715/137605405-2da592f5-e0e0-4cd9-90e4-4099c15d5db0.png" style="width: 200px;">
-
-
 
 ### 👽 Stack
 * #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
