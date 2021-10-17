@@ -5,8 +5,8 @@
 ## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
 <div>
-<img align="left" style="height: 7.5rem" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox">
-<img align="right" style="height: 7.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox">
+<img align="left" style="height: 60px" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox">
+<img align="right" style="height: 60px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox">
 </div>
 
 ### 👽 Stack
