@@ -5,9 +5,9 @@
 ## 👋 hello-world 
 ## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
 
-<img style="height: 40px" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox)
+<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox">
+<img style="height: 10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox">
+
 
 ### 👽 Stack
 * #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
@@ -22,7 +22,8 @@
 * * #### **`🎮 Play videogames `**
 * #### **`💥 Blow my mind learning`**
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=gruvbox)
 
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
