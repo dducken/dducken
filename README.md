@@ -3,7 +3,8 @@
  <a href = "mailto:cabanillasalex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 ## 👋 hello-world 
-## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 <img src="https://user-images.githubusercontent.com/64493715/137605405-2da592f5-e0e0-4cd9-90e4-4099c15d5db0.png" style="width: 250px; height: 200px">
+## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
+<img align="right" src="https://user-images.githubusercontent.com/64493715/137605405-2da592f5-e0e0-4cd9-90e4-4099c15d5db0.png" style="width: 200px; height: 230px">
 
 
 
