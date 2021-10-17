@@ -3,12 +3,7 @@
  <a href = "mailto:cabanillasalex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 ## 👋 hello-world 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=synthwave )
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=synthwave )
-
-
-## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀
+## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀![duck_face3](https://user-images.githubusercontent.com/64493715/137605405-2da592f5-e0e0-4cd9-90e4-4099c15d5db0.png)
 
 
 ### 👽 Stack
@@ -18,24 +13,15 @@
 ### 🌟 I’m currently learning 
 * #### **`Angular`**  
 
-
 ### ⚡ Loving 
 * #### **`💪 Workout`** 
 * * #### **`✌ Watch anime `**
 * * #### **`🎮 Play videogames `**
 * #### **`💥 Blow my mind learning`**
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dducken&theme=synthwave )
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=synthwave )
+
 <!--
 **dducken/dducken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
