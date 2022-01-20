@@ -1,4 +1,4 @@
- <a href="https://deskiced.github.io" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+
  <a href="https://www.linkedin.com/in/alex-cabanillas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href = "mailto:cabanillasalex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
@@ -10,8 +10,8 @@
 </div>
 
 ### 👽 Stack
-* #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`Microsoft SQL Server`** | **`PostgreSQL`**   
-* #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`**
+* #### **`.Net Core`** | **`Entity Framework`** | **`ASP.NET MVC`** | **`APIRest`** | **`JAVA`** | **`C#`** | **`SQL Server`** | **`PostgreSQL`**   
+* #### **`HTML`** | **`CSS`** | **`JavaScript`** | **`Bootstrap`** | **`JQuery`** | **`Ajax`** |
 
 ### 🌟 I’m currently learning 
 * #### **`Angular`**  
