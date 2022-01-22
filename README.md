@@ -3,7 +3,7 @@
  <a href = "mailto:cabanillasalex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=social&logo=gmail&logoColor=black"></a>
  
 ## 👋 hello-world 
-## 👦 My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
+##  My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
 <div align="center">
 <img style="height: 140px" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=graywhite  ">
 <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=graywhite ">
