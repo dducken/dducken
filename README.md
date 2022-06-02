@@ -2,12 +2,17 @@
  <a href="https://www.linkedin.com/in/alex-cabanillas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFB71B?style=social&logo=linkedin&logoColor=black"></a>
  <a href = "mailto:cabanillasalex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=social&logo=gmail&logoColor=black"></a>
  
+
+ 
 ## 👋 hello-world 
-##  My name is Alex, but you could call me Duck - i'm Software Developer 🚀 
+##  My name is Alex, but you could call me Duck - i'm Software Developer 🚀
 <div align="center">
 <img style="height: 140px" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=graywhite  ">
 <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=graywhite ">
 </div>
+<div>
+ <p><img src="https://komarev.com/ghpvc/?username=dducken&color=lightgrey&style=flat-square" alt="Profile views" /> </p>
+ </div>
 
 ### 👽 Stack
 [![C Sharp](https://img.shields.io/badge/C_Sharp-FFF?style=flat-square&logo=csharp&logoColor=white&labelColor=101010)]()
