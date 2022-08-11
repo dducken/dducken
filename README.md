@@ -32,7 +32,8 @@
 
 
 ### 🌟 I’m currently learning 
-[![Angular](https://img.shields.io/badge/Angular-FFF?style=flat-square&logo=angular&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-FFF?style=flat-square&logo=react&logoColor=white&labelColor=101010)]()
+[![Blazor](https://img.shields.io/badge/Blazor-FFF?style=flat-square&logo=blazor&logoColor=white&labelColor=101010)]()
 
 ### ⚡ Loving 
 * #### **`💪 Workout`** 
