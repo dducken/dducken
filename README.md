@@ -7,8 +7,8 @@
 ## 👋 hello-world 
 ##  My name is Alex, but you could call me Duck - i'm Software Developer 🚀
 <div align="center">
-<img style="height: 140px" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=graywhite  ">
-<img style="height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=graywhite ">
+<img style="height: 140px" src="https://github-readme-stats.vercel.app/api?username=dducken&theme=graywhite" />
+<img style="height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dducken&layout=compact&langs_count=7&theme=graywhite" />
 </div>
 <div>
  <p><img src="https://komarev.com/ghpvc/?username=dducken&color=lightgrey&style=flat-square" alt="Profile views" /> </p>
